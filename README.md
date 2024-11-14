@@ -1,5 +1,5 @@
 # 💫 About Me:
-Here's a short "About Me" section with emojis:<br><br>💻 MERN Stack Developer | 🚀 Building *Repai Go* – a mobile repair website | ☁️ Deploying on AWS | 🎓 MCA Student, passionate about creating seamless user experiences and innovative solutions.<br>!<br><br>🚀 Cloud Adventurer: Deploying on AWS feels like sending my code to space!<br><br>🌊 Wheels & Waves: From Splashwheels for water campers to Repai Go for mobile repairs—I'm all about making life easier, one project at a time!<br><br><br><br><br><br><br><br>
+💻 MERN Stack Developer | 🚀 Building *Repai Go* – a mobile repair website | ☁️ Deploying on AWS | 🎓 MCA Student, passionate about creating seamless user experiences and innovative solutions.<br>!<br><br>🚀 Cloud Adventurer: Deploying on AWS feels like sending my code to space!<br><br>🌊 Wheels & Waves: From Splashwheels for water campers to Repai Go for mobile repairs—I'm all about making life easier, one project at a time!<br><br><br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
